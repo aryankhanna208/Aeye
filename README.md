@@ -54,6 +54,6 @@ The A-Eye project is licensed under the [MIT License](https://opensource.org/lic
 
 For any questions, issues, or feedback regarding the A-Eye project, please
 
- contact [project-email@example.com](mailto:project-email@example.com).
+ contact [project-email@example.com](mailto:aryankhanna208@gmail.com.com).
 
 We appreciate your interest in A-Eye and welcome your valuable contributions.
